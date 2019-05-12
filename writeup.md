@@ -140,10 +140,14 @@ Then I repeated this process on track two in order to get more data points.
 
 To augment the data sat, I also flipped images and angles thinking that this would help taking the opposite curve measurement. 
 For example, here were images that has then been flipped:
+
 Normal:
+
 ![alt text][image6]
 
 Flipped:
+
+
 ![alt text][image7]
 
 Final step was randomly shuffled the data set and put 15% of the data into a validation set. 
